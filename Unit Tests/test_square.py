@@ -15,3 +15,5 @@ def test_default():
 
 def test_string():
     assert square("cat") == "Enter a number."
+
+# This is meant to be used with pytest for checking testing different cases
